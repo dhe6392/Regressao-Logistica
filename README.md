@@ -1,6 +1,6 @@
 # Regressão Logística: Previsão de Cliques em Anúncios
 
-Este projeto utiliza **regressão logística** para prever se um usuário irá clicar ou não em um anúncio online com base em características como idade, tempo gasto no site, renda, sexo e tempo na internet.
+Este projeto utiliza **regressão logística** para prever se um usuário irá clicar ou não em um anúncio online com base em características como idade, tempo gasto no site, renda, sexo e tempo na internet. Encontrou-se que a cada 1 ano de aumento na idade eleva-se em 23.7% a chance de uma pessoa clicar no anúncio, com baixa relevância absoluta para as outras variáveis.
 
 ## 📁 Arquivos
 
